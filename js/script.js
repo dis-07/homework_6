@@ -12,3 +12,6 @@ alert (a - b);
 alert (a * b);
 alert (a / b);
 alert (a **b);
+
+
+console.log('New feature');
